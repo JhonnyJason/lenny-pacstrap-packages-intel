@@ -1,11 +1,11 @@
 format = 1
-pkgname = lenny-base
-pkgbase = lenny-base
+pkgname = lenny-pacstrap-packages
+pkgbase = lenny-pacstrap-packages
 pkgver = 0.0.1-1
 pkgarch = any
-pkgbuild_sha256sum = a131dee4be0140aa74f9f301ad8f2ab4d0118077c18a55942a36092ad42ddcc4
+pkgbuild_sha256sum = 968f382e745664e39a6e4e812914b758f122cd6ca46cf7cd762ad2b452542eb5
 packager = Lenard Frommelt <lenny09918050@gmail.com>
-builddate = 1582477347
+builddate = 1582477694
 builddir = /home/lenny/thingies/lenny-pacstrap-packages-intel
 buildenv = !distcc
 buildenv = color

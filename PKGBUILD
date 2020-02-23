@@ -1,5 +1,5 @@
 # Maintainer: Lenard Frommelt <lenny09918050@gmail.com>
-pkgname=lenny-base
+pkgname=lenny-pacstrap-packages
 pkgver=0.0.1
 pkgrel=1
 pkgdesc="packages to be installed when pacstrapping a new arch linux system"
